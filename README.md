@@ -1,1 +1,1 @@
-# Ejemplo-Kubernetes
+# Ejemplo-Istio
